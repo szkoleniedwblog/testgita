@@ -2,3 +2,4 @@
 2. Druga aplikacja
 3. Jestem w gałęzi klient101
 4. Jestem w gałęzi klient102
+5. Tworzymy nową gałązkę haslo.

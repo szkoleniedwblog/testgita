@@ -5,3 +5,6 @@
 5. Tworzymy nową gałązkę haslo.
 
 7. Tylko to co w haslo
+8. Coś żeby zmienić haslo
+9. Coś extra w haslo
+ 

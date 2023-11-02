@@ -9,3 +9,4 @@
 9. Coś extra w haslo
 10. To co w aplikacjach z Raciąża
 11. I jeszcze z Raciąża ale z GITHUBA
+12. Dodajemy teraz coś z InteliJ
